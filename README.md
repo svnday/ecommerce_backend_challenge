@@ -27,7 +27,7 @@ THEN I am able to successfully create, update, and delete data in my database
 
 ```
 
-## Technology used
+## Technology Used
 ```
 This project uses the following technologies:  
 Javascript  
